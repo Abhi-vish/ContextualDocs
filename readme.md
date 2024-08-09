@@ -49,7 +49,12 @@ To run this project locally, follow these steps:
     python app.py
     ```
 
+
+### Documentation of the project
+https://abhisheks-organization-12.gitbook.io/untitled
+
 ### Check the app running live here
+https://contextualdocs.streamlit.app/
 
 
 ## Demo 
